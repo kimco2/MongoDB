@@ -1,4 +1,4 @@
-# Establishing a database in MongoDB and undertaking exploratory analysis
+# Creating a database in MongoDB and undertaking exploratory analysis
 
  ### **Overview**
 Set up a database in MongoDB to hold data from the UK Food Standards Agency on various eateries across the UK.  Using the information in the database, perform exploratory analysis to answer various questions about the data.
